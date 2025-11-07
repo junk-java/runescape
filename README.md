@@ -1,1 +1,1 @@
-# this version of runescape is a completly differnt version of rune scape, all characters here are not runescape characters. type start to begin, items for items; and inventory for stats
+# this is a simple minded, very poorly made runescape clone with no enemies and such, made by a 14 yr old
